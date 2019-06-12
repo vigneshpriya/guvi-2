@@ -3,7 +3,7 @@ if(x>0):
   if(x%2==0):
     print("Even")
   else:
-    print("0dd")
+    print("Odd")
 
 else:
   print("invalid")
