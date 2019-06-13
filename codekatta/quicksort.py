@@ -1,3 +1,4 @@
+
 u=int(input())
 o=[int(i) for i in input().split()]
 o.sort()
