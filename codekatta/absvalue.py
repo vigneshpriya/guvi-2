@@ -1,0 +1,8 @@
+p,d=(input().split())
+p=int(p)
+d=int(d)
+s,f=(input().split())
+s=int(s)
+f=int(f)
+print(abs(p-s),end=' ')
+print(abs(d-f))
