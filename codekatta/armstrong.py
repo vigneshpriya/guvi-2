@@ -1,0 +1,12 @@
+p=int(input())
+d=p
+e=0
+while(p>0):
+  t=p%10
+  p=p//10
+  c=t**3
+  e=e+c
+if(d==e):
+  print('yes')
+else:
+  print('no')
